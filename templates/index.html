@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Diet Generator</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg">
+    <div class="container">
+        <a class="navbar-brand" href="#"><i class="fas fa-seedling"></i> AI Diet Generator</a>
+    </div>
+</nav>
+
+<!-- Main Content -->
+<section class="hero-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <div class="form-card">
+                    <h1 class="text-center">Craft Your Perfect Diet</h1>
+                    <p class="text-center text-muted">Enter your details for a personalized 6-meal plan.</p>
+
+                    <form id="dietForm" class="mt-4">
+                        <div class="form-floating mb-3">
+                            <input type="number" id="height" name="height" class="form-control" placeholder="Height (cm)" required>
+                            <label for="height"><i class="fas fa-ruler-vertical"></i> Height (cm)</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input type="number" id="weight" name="weight" class="form-control" placeholder="Weight (kg)" required>
+                            <label for="weight"><i class="fas fa-weight"></i> Weight (kg)</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input type="number" id="tdee" name="tdee" class="form-control" placeholder="TDEE (Calories)" required>
+                            <label for="tdee"><i class="fas fa-fire"></i> TDEE (Calories)</label>
+                        </div>
+
+                        <div class="mb-4">
+                            <select id="diet_type" name="diet_type" class="form-select" required>
+                                <option value="" disabled selected>Choose Your Diet</option>
+                                <option value="Vegetarian">Vegetarian 🥗</option>
+                                <option value="Non-Vegetarian">Non-Vegetarian 🍗</option>
+                                <option value="Vegan">Vegan 🌱</option>
+                            </select>
+                        </div>
+
+                        <button type="submit" class="btn btn-generate w-100"><i class="fas fa-magic"></i> Generate My Plan</button>
+                    </form>
+
+                    <!-- Results -->
+                    <div class="result-container mt-5" id="resultContainer">
+                        <h3 class="text-center">Your Daily Meal Plan</h3>
+                        <div id="result"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer text-center py-4">
+    <p>Made with <i class="fas fa-heart text-danger"></i> by <span class="highlight">HIKARU_TSUKINO</span></p>
+</footer>
+
+<!-- Bootstrap 5 JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

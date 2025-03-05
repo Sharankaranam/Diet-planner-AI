@@ -1,0 +1,195 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #e8f1f2, #d5e6e9); /* Calm, soft gradient */
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navbar */
+.navbar {
+    background: #34495e; /* Deep, calming blue-gray */
+    padding: 1rem 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #ecf0f1;
+}
+.navbar-brand:hover {
+    color: #bdc3c7;
+}
+
+/* Hero Section */
+.hero-section {
+    flex: 1;
+    padding: 60px 0;
+}
+
+/* Form Card */
+.form-card {
+    background: #ffffff;
+    border-radius: 25px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.form-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.1);
+}
+.form-card h1 {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #34495e;
+    margin-bottom: 0.5rem;
+}
+.form-card p {
+    font-size: 1.1rem;
+}
+
+/* Form Inputs */
+.form-floating input, .form-select {
+    border-radius: 15px;
+    border: 1px solid #bdc3c7;
+    padding: 12px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+.form-floating input:focus, .form-select:focus {
+    border-color: #3498db;
+    box-shadow: 0 0 12px rgba(52, 152, 219, 0.3);
+    outline: none;
+}
+.form-floating label {
+    color: #7f8c8d;
+    padding-left: 15px;
+}
+.form-select {
+    padding: 12px 15px;
+}
+
+/* Generate Button */
+.btn-generate {
+    background: linear-gradient(45deg, #3498db, #5dade2);
+    border: none;
+    border-radius: 20px;
+    padding: 14px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+.btn-generate:hover {
+    background: linear-gradient(45deg, #2980b9, #3498db);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+    transform: scale(1.02);
+}
+
+/* Result Container */
+.result-container {
+    background: #f8fbfc;
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.05);
+    display: none;
+}
+.result-container.show {
+    display: block;
+    animation: fadeInUp 0.6s ease forwards;
+}
+.result-container h3 {
+    font-size: 1.8rem;
+    color: #34495e;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+/* Accordion Buttons with Hierarchy Colors */
+.accordion-button {
+    border-radius: 15px !important;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    box-shadow: none;
+}
+/* Breakfast - Strong Blue */
+#headingBreakfast .accordion-button {
+    background: #3498db; /* Main meal */
+    color: #fff;
+}
+#headingBreakfast .accordion-button:not(.collapsed) {
+    background: #2980b9;
+}
+/* Snack 1 - Light Teal */
+#headingSnack1 .accordion-button {
+    background: #85cce6; /* Lighter for snacks */
+    color: #2c3e50;
+}
+#headingSnack1 .accordion-button:not(.collapsed) {
+    background: #5dade2;
+    color: #fff;
+}
+/* Lunch - Deep Teal */
+#headingLunch .accordion-button {
+    background: #16a085; /* Main meal */
+    color: #fff;
+}
+#headingLunch .accordion-button:not(.collapsed) {
+    background: #138d75;
+}
+/* Snack 2 - Soft Green */
+#headingSnack2 .accordion-button {
+    background: #a9dfbf; /* Lighter for snacks */
+    color: #2c3e50;
+}
+#headingSnack2 .accordion-button:not(.collapsed) {
+    background: #7dcea0;
+    color: #fff;
+}
+/* Snack 3 - Pale Yellow */
+#headingSnack3 .accordion-button {
+    background: #f7dc6f; /* Lighter for snacks */
+    color: #2c3e50;
+}
+#headingSnack3 .accordion-button:not(.collapsed) {
+    background: #f4d03f;
+    color: #fff;
+}
+/* Dinner - Rich Purple */
+#headingDinner .accordion-button {
+    background: #8e44ad; /* Main meal */
+    color: #fff;
+}
+#headingDinner .accordion-button:not(.collapsed) {
+    background: #7d3c98;
+}
+.accordion-body {
+    background: #fff;
+    border-radius: 0 0 15px 15px;
+    padding: 15px;
+}
+
+/* Footer */
+.footer {
+    background: #34495e;
+    color: #ecf0f1;
+    font-size: 1rem;
+}
+.highlight {
+    color: #3498db;
+    font-weight: 600;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
