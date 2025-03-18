@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Diet Generator</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        body {
+            background: linear-gradient(135deg, #2b5876, #4e4376);
+            color: #fff;
+            font-family: 'Poppins', sans-serif;
+        }
+        .container {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .form-control, .form-select {
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: #fff;
+        }
+        .form-control::placeholder {
+            color: #ddd;
+        }
+        .btn-primary {
+            background: #ff7eb3;
+            border: none;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 25px;
+            transition: 0.3s;
+        }
+        .btn-primary:hover {
+            background: #ff5176;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h1>Generate Your Personalized Meal Plan</h1>
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="age" class="form-label">Age:</label>
+            <input type="number" id="age" class="form-control" placeholder="Enter your age" required>
+        </div>
+        <div class="col-md-6">
+            <label for="tdee" class="form-label">TDEE (Calories):</label>
+            <input type="number" id="tdee" class="form-control" placeholder="Enter your TDEE" required>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="height" class="form-label">Height (cm):</label>
+            <input type="number" id="height" class="form-control" placeholder="Enter your height" required>
+        </div>
+        <div class="col-md-6">
+            <label for="weight" class="form-label">Weight (kg):</label>
+            <input type="number" id="weight" class="form-control" placeholder="Enter your weight" required>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label for="bmi" class="form-label">Your BMI:</label>
+        <input type="text" id="bmi" class="form-control" readonly>
+    </div>
+
+    <form id="dietForm">
+        <div class="mb-3">
+            <label for="diet_goal" class="form-label">Select Diet Goal:</label>
+            <select id="diet_goal" name="diet_goal" class="form-select">
+                <option value="" disabled selected>Choose an option</option>
+                <option value="Low Carb">Low Carb</option>
+                <option value="High Fat">High Fat</option>
+                <option value="Low Fat">Low Fat</option>
+                <option value="High Protein">High Protein</option>
+                <option value="Normal">Normal</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="diet_preference" class="form-label">Select Dietary Preference:</label>
+            <select id="diet_preference" name="diet_preference" class="form-select">
+                <option value="" disabled selected>Choose an option</option>
+                <option value="Vegetarian">Vegetarian</option>
+                <option value="Non-Vegetarian">Non-Vegetarian</option>
+                <option value="Vegan">Vegan</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Generate My Plan</button>
+    </form>
+
+    <div id="result" class="mt-4"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

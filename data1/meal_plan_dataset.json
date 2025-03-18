@@ -1,0 +1,2442 @@
+{
+    "Low Carb": {
+        "Vegetarian": [
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            }
+        ],
+        "Non-Vegetarian": [
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            },
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            }
+        ],
+        "Vegan": [
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            }
+        ]
+    },
+    "High Fat": {
+        "Vegetarian": [
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            }
+        ],
+        "Non-Vegetarian": [
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            },
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            }
+        ],
+        "Vegan": [
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            }
+        ]
+    },
+    "Low Fat": {
+        "Vegetarian": [
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            }
+        ],
+        "Non-Vegetarian": [
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            },
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            }
+        ],
+        "Vegan": [
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            }
+        ]
+    },
+    "High Protein": {
+        "Vegetarian": [
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            }
+        ],
+        "Non-Vegetarian": [
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            },
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            }
+        ],
+        "Vegan": [
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            }
+        ]
+    },
+    "Normal": {
+        "Vegetarian": [
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Paneer bhurji with saut\u00e9ed vegetables",
+                "snack1": "Roasted almonds",
+                "lunch": "Palak paneer with salad",
+                "snack2": "Cucumber sticks",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Cheese cubes"
+            },
+            {
+                "breakfast": "Eggplant stir-fry with tofu",
+                "snack1": "Nuts and seeds mix",
+                "lunch": "Mushroom soup",
+                "snack2": "Zucchini fries",
+                "dinner": "Grilled halloumi with spinach",
+                "snack3": "Pumpkin seeds"
+            },
+            {
+                "breakfast": "Vegetable frittata",
+                "snack1": "Greek yogurt with nuts",
+                "lunch": "Cheese and avocado wrap",
+                "snack2": "Coconut flakes",
+                "dinner": "Stuffed mushrooms",
+                "snack3": "Berries with cream"
+            },
+            {
+                "breakfast": "Spinach omelet",
+                "snack1": "Sunflower seeds",
+                "lunch": "Broccoli and tofu stir-fry",
+                "snack2": "Cucumber with hummus",
+                "dinner": "Paneer tikka",
+                "snack3": "Keto chocolate"
+            },
+            {
+                "breakfast": "Cottage cheese pancakes",
+                "snack1": "Hard-boiled eggs",
+                "lunch": "Brussels sprouts with tahini",
+                "snack2": "Carrot sticks",
+                "dinner": "Saag paneer",
+                "snack3": "Protein bar"
+            },
+            {
+                "breakfast": "Masala cheese toast",
+                "snack1": "Almond flour crackers",
+                "lunch": "Pumpkin soup",
+                "snack2": "Cheese roll-ups",
+                "dinner": "Grilled asparagus with paneer",
+                "snack3": "Cashew nuts"
+            },
+            {
+                "breakfast": "Vegetable omelet",
+                "snack1": "Chia pudding",
+                "lunch": "Cheesy zucchini noodles",
+                "snack2": "Protein smoothie",
+                "dinner": "Tofu stir-fry",
+                "snack3": "Avocado with salt"
+            },
+            {
+                "breakfast": "Mushroom and bell pepper scramble",
+                "snack1": "Nuts and dark chocolate",
+                "lunch": "Egg curry with greens",
+                "snack2": "Olives",
+                "dinner": "Cabbage stir-fry",
+                "snack3": "Walnuts"
+            },
+            {
+                "breakfast": "Cauliflower rice upma",
+                "snack1": "Roasted flaxseeds",
+                "lunch": "Keto chana masala",
+                "snack2": "Boiled eggs",
+                "dinner": "Vegetable kababs",
+                "snack3": "Cheese spread"
+            },
+            {
+                "breakfast": "Stuffed avocados",
+                "snack1": "Sesame seeds",
+                "lunch": "Zoodles with spinach sauce",
+                "snack2": "Paneer cutlet",
+                "dinner": "Roasted peppers with cheese",
+                "snack3": "Pecan nuts"
+            }
+        ],
+        "Non-Vegetarian": [
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            },
+            {
+                "breakfast": "Scrambled eggs with cheese",
+                "snack1": "Beef jerky",
+                "lunch": "Grilled chicken with broccoli",
+                "snack2": "Boiled eggs",
+                "dinner": "Grilled salmon",
+                "snack3": "Chicken slices"
+            },
+            {
+                "breakfast": "Omelet with bacon",
+                "snack1": "Nuts and salami",
+                "lunch": "Tandoori chicken",
+                "snack2": "Greek yogurt",
+                "dinner": "Lamb kebabs",
+                "snack3": "Fish roe"
+            },
+            {
+                "breakfast": "Egg muffins",
+                "snack1": "Pepperoni slices",
+                "lunch": "Butter chicken",
+                "snack2": "Tuna salad",
+                "dinner": "Turkey steak",
+                "snack3": "Beef patties"
+            },
+            {
+                "breakfast": "Chicken sausage stir-fry",
+                "snack1": "Cashews",
+                "lunch": "Prawn curry",
+                "snack2": "Boiled shrimp",
+                "dinner": "Grilled duck",
+                "snack3": "Steak strips"
+            },
+            {
+                "breakfast": "Beef stir-fry",
+                "snack1": "Cheese cubes",
+                "lunch": "Mutton masala",
+                "snack2": "Anchovies",
+                "dinner": "Tuna kababs",
+                "snack3": "Smoked salmon"
+            },
+            {
+                "breakfast": "Salmon omelet",
+                "snack1": "Salami and cheese",
+                "lunch": "Turkey soup",
+                "snack2": "Chicken nuggets",
+                "dinner": "Spicy fish curry",
+                "snack3": "Deli ham"
+            },
+            {
+                "breakfast": "Bacon-wrapped eggs",
+                "snack1": "Pumpkin seeds",
+                "lunch": "Fried fish fillet",
+                "snack2": "Keto sushi",
+                "dinner": "Liver stir-fry",
+                "snack3": "Duck breast"
+            },
+            {
+                "breakfast": "Boiled egg salad",
+                "snack1": "Pork rinds",
+                "lunch": "Crab curry",
+                "snack2": "Beef stir-fry",
+                "dinner": "Lamb chops",
+                "snack3": "Shrimp cocktail"
+            },
+            {
+                "breakfast": "Smoked turkey",
+                "snack1": "Grilled mackerel",
+                "lunch": "Chicken satay",
+                "snack2": "Mutton kebab",
+                "dinner": "Fish fry",
+                "snack3": "Salmon sashimi"
+            },
+            {
+                "breakfast": "Chicken cheese roll",
+                "snack1": "Peppery beef cubes",
+                "lunch": "Egg curry",
+                "snack2": "Grilled sardines",
+                "dinner": "Crab legs",
+                "snack3": "Tuna steaks"
+            }
+        ],
+        "Vegan": [
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            },
+            {
+                "breakfast": "Tofu scramble with mushrooms",
+                "snack1": "Chia pudding",
+                "lunch": "Zucchini noodles with avocado",
+                "snack2": "Roasted pumpkin seeds",
+                "dinner": "Grilled tempeh",
+                "snack3": "Nut butter"
+            },
+            {
+                "breakfast": "Almond flour pancakes",
+                "snack1": "Coconut flakes",
+                "lunch": "Keto cauliflower curry",
+                "snack2": "Sunflower seeds",
+                "dinner": "Eggplant stir-fry",
+                "snack3": "Tahini dip"
+            },
+            {
+                "breakfast": "Flaxseed crackers",
+                "snack1": "Smoothie bowl",
+                "lunch": "Chickpea salad",
+                "snack2": "Cashew butter",
+                "dinner": "Stir-fried mushrooms",
+                "snack3": "Vegan cheese"
+            },
+            {
+                "breakfast": "Avocado wrap",
+                "snack1": "Hemp seeds",
+                "lunch": "Tofu curry",
+                "snack2": "Coconut yogurt",
+                "dinner": "Tempeh stir-fry",
+                "snack3": "Walnut bars"
+            },
+            {
+                "breakfast": "Zucchini fritters",
+                "snack1": "Soy yogurt",
+                "lunch": "Lentil soup",
+                "snack2": "Quinoa crackers",
+                "dinner": "Jackfruit curry",
+                "snack3": "Kale chips"
+            },
+            {
+                "breakfast": "Chickpea pancakes",
+                "snack1": "Nut milk smoothie",
+                "lunch": "Grilled eggplant",
+                "snack2": "Coconut bars",
+                "dinner": "Stuffed bell peppers",
+                "snack3": "Tofu kebabs"
+            },
+            {
+                "breakfast": "Almond butter sandwich",
+                "snack1": "Pumpkin crackers",
+                "lunch": "Seitan stir-fry",
+                "snack2": "Chia seed snack",
+                "dinner": "Baked sweet potato",
+                "snack3": "Hemp protein balls"
+            },
+            {
+                "breakfast": "Vegan eggplant parmesan",
+                "snack1": "Sesame crackers",
+                "lunch": "Lentil hummus",
+                "snack2": "Seaweed salad",
+                "dinner": "Avocado sushi",
+                "snack3": "Vegan chocolate"
+            },
+            {
+                "breakfast": "Keto falafel",
+                "snack1": "Miso soup",
+                "lunch": "Spinach tofu salad",
+                "snack2": "Nut butter celery sticks",
+                "dinner": "Vegan Thai curry",
+                "snack3": "Roasted chickpeas"
+            },
+            {
+                "breakfast": "Coconut chia pudding",
+                "snack1": "Dark chocolate almonds",
+                "lunch": "Vegan tacos",
+                "snack2": "Peanut butter protein bars",
+                "dinner": "Tempeh skewers",
+                "snack3": "Pecan nuts"
+            }
+        ]
+    }
+}
